@@ -1,3 +1,6 @@
+
+<img width="2560" height="640" alt="daordonez11-readme-banner" src="https://github.com/user-attachments/assets/19b353ba-df5c-40dd-b82b-41a27d97e15f" />
+
 <h1 align="center">Hi 👋, I'm Daniel Ordóñez</h1>
 <h3 align="center">I'm a problem solver that happens to know coding, I've worked with a wide variety of technologies ranging from Mobile native to cloud solutions. My purpose is to give time back to people</h3>
 
