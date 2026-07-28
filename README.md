@@ -5,7 +5,7 @@
 <h3 align="center">I'm a problem solver that happens to know coding, I've worked with a wide variety of technologies ranging from Mobile native to cloud solutions. My purpose is to give time back to people</h3>
 
 
-- 🔭 I’m currently working as Tech manager in [Nubank](https://nubank.com.br/)
+- 🔭 I’m currently working as Eng Manager in [Grindr](https://www.grindr.com/)
 
 - 💬 Ask me about **Angular, React, NodeJS**
 
